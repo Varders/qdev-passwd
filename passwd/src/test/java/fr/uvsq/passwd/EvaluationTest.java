@@ -9,4 +9,8 @@ public class EvaluationTest {
     public void testStrong() {
         assertTrue(true);
     }
+
+    public EvaluatoinTest() {
+    }   
 }
+
